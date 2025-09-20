@@ -1,7 +1,8 @@
 ---
 title: "p8105_hw1_yz5290"
-output: html_document
+author: "Yue Zhao"
 date: "2025-09-20"
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
